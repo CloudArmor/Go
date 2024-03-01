@@ -268,4 +268,3 @@ func (A Matrix[T]) StrassenMatrixMultiply(B Matrix[T]) (Matrix[T], error) {
 		return C, nil
 	}
 }
-
