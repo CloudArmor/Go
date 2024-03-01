@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/strings"
+	"github.com/CloudArmor/Go/strings"
 )
 
 func TestIsSubsequence(t *testing.T) {

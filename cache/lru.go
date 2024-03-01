@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"github.com/TheAlgorithms/Go/structure/linkedlist"
+	"github.com/CloudArmor/Go/structure/linkedlist"
 )
 
 type item struct {

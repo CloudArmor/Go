@@ -8,8 +8,8 @@
 package tree
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/math/max"
+	"github.com/CloudArmor/Go/constraints"
+	"github.com/CloudArmor/Go/math/max"
 )
 
 type Node[T constraints.Ordered] interface {

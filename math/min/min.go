@@ -1,6 +1,6 @@
 package min
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/CloudArmor/Go/constraints"
 
 // Int is a function which returns the minimum of all the integers provided as arguments.
 func Int[T constraints.Integer](values ...T) T {

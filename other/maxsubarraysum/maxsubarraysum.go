@@ -6,7 +6,7 @@ maximum contiguous sum in the given array. */
 package maxsubarraysum
 
 import (
-	"github.com/TheAlgorithms/Go/math/max"
+	"github.com/CloudArmor/Go/math/max"
 )
 
 // MaxSubarraySum returns the maximum subarray sum

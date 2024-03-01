@@ -6,8 +6,8 @@
 package sort
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/math/max"
+	"github.com/CloudArmor/Go/constraints"
+	"github.com/CloudArmor/Go/math/max"
 )
 
 func countSort[T constraints.Integer](arr []T, exp T) []T {

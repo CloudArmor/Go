@@ -1,8 +1,8 @@
 package sort
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/math/min"
+	"github.com/CloudArmor/Go/constraints"
+	"github.com/CloudArmor/Go/math/min"
 	"sync"
 )
 

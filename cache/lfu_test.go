@@ -3,7 +3,7 @@ package cache_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/cache"
+	"github.com/CloudArmor/Go/cache"
 )
 
 func TestLFU(t *testing.T) {

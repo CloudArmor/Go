@@ -7,7 +7,7 @@ package math_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math"
+	"github.com/CloudArmor/Go/math"
 )
 
 func TestMedian(t *testing.T) {

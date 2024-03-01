@@ -1,6 +1,6 @@
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/CloudArmor/Go/constraints"
 
 type MaxHeap struct {
 	slice    []Comparable

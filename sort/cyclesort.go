@@ -1,7 +1,7 @@
 package sort
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/CloudArmor/Go/constraints"
 )
 
 // Cycle sort is an in-place, unstable sorting algorithm that is particularly useful

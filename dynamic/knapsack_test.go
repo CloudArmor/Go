@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/dynamic"
+	"github.com/CloudArmor/Go/dynamic"
 )
 
 func TestKnapsack(t *testing.T) {

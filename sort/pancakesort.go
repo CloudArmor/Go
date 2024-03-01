@@ -1,6 +1,6 @@
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/CloudArmor/Go/constraints"
 
 // Pancake sorts a slice using flip operations,
 // where flip refers to the idea of reversing the

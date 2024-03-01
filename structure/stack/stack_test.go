@@ -11,7 +11,7 @@ package stack_test
 
 import (
 	"container/list"
-	"github.com/TheAlgorithms/Go/structure/stack"
+	"github.com/CloudArmor/Go/structure/stack"
 	"reflect"
 	"testing"
 )

@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/CloudArmor/Go/structure/tree"
 )
 
 func TestTreeGetOrHas(t *testing.T) {

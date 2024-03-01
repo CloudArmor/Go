@@ -12,7 +12,7 @@ package prime
 import (
 	"math/rand"
 
-	"github.com/TheAlgorithms/Go/math/modular"
+	"github.com/CloudArmor/Go/math/modular"
 )
 
 // formatNum accepts a number and returns the

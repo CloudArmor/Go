@@ -14,7 +14,7 @@ package deque_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/structure/deque"
+	"github.com/CloudArmor/Go/structure/deque"
 )
 
 type QueryStructure[T any] struct {

@@ -8,7 +8,7 @@ package checksum_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/checksum"
+	"github.com/CloudArmor/Go/checksum"
 )
 
 func TestLuhn(t *testing.T) {

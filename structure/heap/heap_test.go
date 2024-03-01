@@ -1,7 +1,7 @@
 package heap_test
 
 import (
-	"github.com/TheAlgorithms/Go/structure/heap"
+	"github.com/CloudArmor/Go/structure/heap"
 	"reflect"
 	"testing"
 )

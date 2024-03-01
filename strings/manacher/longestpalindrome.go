@@ -8,7 +8,7 @@
 package manacher
 
 import (
-	"github.com/TheAlgorithms/Go/math/min"
+	"github.com/CloudArmor/Go/math/min"
 	"strings"
 )
 

@@ -2,10 +2,10 @@ package tree_test
 
 import (
 	"fmt"
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/CloudArmor/Go/constraints"
 	"testing"
 
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/CloudArmor/Go/structure/tree"
 )
 
 type TestTree[T constraints.Ordered] interface {

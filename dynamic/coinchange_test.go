@@ -2,7 +2,7 @@ package dynamic_test
 
 import (
 	"fmt"
-	"github.com/TheAlgorithms/Go/dynamic"
+	"github.com/CloudArmor/Go/dynamic"
 	"testing"
 )
 

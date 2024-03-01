@@ -7,8 +7,8 @@
 package segmenttree
 
 import (
-	"github.com/TheAlgorithms/Go/math/max"
-	"github.com/TheAlgorithms/Go/math/min"
+	"github.com/CloudArmor/Go/math/max"
+	"github.com/CloudArmor/Go/math/min"
 )
 
 const emptyLazyNode = 0

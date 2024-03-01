@@ -7,7 +7,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/CloudArmor/Go/constraints"
 
 func Partition[T constraints.Ordered](arr []T, low, high int) int {
 	index := low - 1

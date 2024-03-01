@@ -3,7 +3,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/CloudArmor/Go/constraints"
 
 func Exchange[T constraints.Ordered](arr []T) []T {
 	for i := 0; i < len(arr)-1; i++ {

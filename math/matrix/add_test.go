@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math/matrix"
+	"github.com/CloudArmor/Go/math/matrix"
 )
 
 func TestAdd(t *testing.T) {

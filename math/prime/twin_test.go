@@ -8,7 +8,7 @@ package prime_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math/prime"
+	"github.com/CloudArmor/Go/math/prime"
 )
 
 func TestTwin(t *testing.T) {

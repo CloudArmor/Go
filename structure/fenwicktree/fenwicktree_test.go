@@ -1,7 +1,7 @@
 package fenwicktree_test
 
 import (
-	"github.com/TheAlgorithms/Go/structure/fenwicktree"
+	"github.com/CloudArmor/Go/structure/fenwicktree"
 	"testing"
 )
 

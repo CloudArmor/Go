@@ -1,7 +1,7 @@
 package tree_test
 
 import (
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/CloudArmor/Go/structure/tree"
 	"math/rand"
 	"sort"
 	"testing"

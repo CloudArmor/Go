@@ -6,7 +6,7 @@
 package binary
 
 import (
-	math2 "github.com/TheAlgorithms/Go/math"
+	math2 "github.com/CloudArmor/Go/math"
 	"math"
 	"testing"
 )
